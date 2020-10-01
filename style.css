@@ -1,0 +1,20 @@
+body {background-color: mistyrose }
+
+h1 {color: pink; }
+
+
+    #carouselExampleControls {
+        height: 600px;
+        width: 600px;
+        margin: auto;
+   Margin-bottom: 300px; }
+
+   .cardrow {
+       margin-top: 10px;
+       display: flex;
+   }
+   
+   .column {
+       flex: 33%;
+       padding: 20px;
+   }
